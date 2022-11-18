@@ -1,0 +1,15 @@
+ {
+  "name": "Audit Proof",
+  "description": "This NFT prooves that the Contract, in which this NFT is, was audited by https://lunatic-audits.tech/",
+  "image": "https://lunatic-audits.tech/audited.png",
+  "attributes": [
+    {
+      "trait_type": "Valid?", 
+      "value": "Yes"
+    }, 
+    {
+      "value": "Generic"
+    }
+  
+  ]
+}
